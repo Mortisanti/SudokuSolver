@@ -1,3 +1,3 @@
 import numpy
 
-print("Benis")
+print("Test")
